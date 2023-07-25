@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sdev77
-- 👀 I’m interested in web developmet, app development, blockchain
-- 🌱 I’m currently working with JavaScript, Python, CSS, ReactJS, Django, Docker, Machine Learning, Flask and many more...
+- 👀 I’m interested in web development, app development, blockchain
+- 🌱 I’m currently working as a DevOps Engineer
 - 💞️ I’m looking to collaborate on Web App projects,Web3 Projects, browser extensions and other Saas products.
 - 📫 How to reach me sallydaveytv@gmail.com
 
